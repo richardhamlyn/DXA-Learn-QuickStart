@@ -1,0 +1,9 @@
+{
+  "name": "environment",
+  "settings": "Tridion.ContentManager.ContentManagement.Fields.EmbeddedSchemaField",
+  "cmsurl": "http://cms.training.com:81",
+  "mapsApiKey": "xxx",
+  "dataFormats": "json, rss, atom",
+  "culture": "en-US",
+  "language": "English"
+}

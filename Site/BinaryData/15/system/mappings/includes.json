@@ -1,0 +1,31 @@
+{
+  "457": [
+    "system/include/header",
+    "system/include/footer",
+    "system/include/content-tools",
+    "system/include/left-navigation"
+  ],
+  "493": [
+    "system/include/header",
+    "system/include/footer",
+    "system/include/content-tools"
+  ],
+  "722": [
+    "system/include/header",
+    "system/include/footer"
+  ],
+  "479": [
+    "system/include/header",
+    "system/include/footer"
+  ],
+  "753": [
+    "system/include/header",
+    "system/include/footer"
+  ],
+  "382": [],
+  "444": [],
+  "486": [
+    "system/include/header",
+    "system/include/footer"
+  ]
+}

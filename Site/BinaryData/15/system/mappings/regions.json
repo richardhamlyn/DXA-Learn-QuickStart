@@ -1,0 +1,339 @@
+[
+  {
+    "Region": "Main",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-394-8",
+        "Template": "tcm:15-399-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-405-32"
+      },
+      {
+        "Schema": "tcm:15-393-8",
+        "Template": "tcm:15-410-32"
+      },
+      {
+        "Schema": "tcm:15-419-8",
+        "Template": "tcm:15-420-32"
+      },
+      {
+        "Schema": "tcm:15-350-8",
+        "Template": "tcm:15-423-32"
+      },
+      {
+        "Schema": "tcm:15-406-8",
+        "Template": "tcm:15-423-32"
+      },
+      {
+        "Schema": "tcm:15-351-8",
+        "Template": "tcm:15-434-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-436-32"
+      },
+      {
+        "Schema": "tcm:15-419-8",
+        "Template": "tcm:15-452-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-461-32"
+      },
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-467-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-467-32"
+      },
+      {
+        "Schema": "tcm:15-415-8",
+        "Template": "tcm:15-469-32"
+      },
+      {
+        "Schema": "tcm:15-353-8",
+        "Template": "tcm:15-472-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-472-32"
+      },
+      {
+        "Schema": "tcm:15-454-8",
+        "Template": "tcm:15-472-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-475-32"
+      }
+    ]
+  },
+  {
+    "Region": "4-Column",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-353-8",
+        "Template": "tcm:15-367-32"
+      },
+      {
+        "Schema": "tcm:15-401-8",
+        "Template": "tcm:15-427-32"
+      }
+    ]
+  },
+  {
+    "Region": "Nav",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-353-8",
+        "Template": "tcm:15-370-32"
+      },
+      {
+        "Schema": "tcm:15-446-8",
+        "Template": "tcm:15-447-32"
+      },
+      {
+        "Schema": "tcm:15-419-8",
+        "Template": "tcm:15-492-32"
+      }
+    ]
+  },
+  {
+    "Region": "2-Column",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-388-32"
+      },
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-388-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-388-32"
+      },
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-435-32"
+      },
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-435-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-435-32"
+      },
+      {
+        "Schema": "tcm:15-351-8",
+        "Template": "tcm:15-437-32"
+      },
+      {
+        "Schema": "tcm:15-415-8",
+        "Template": "tcm:15-450-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-453-32"
+      },
+      {
+        "Schema": "tcm:15-353-8",
+        "Template": "tcm:15-455-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-455-32"
+      },
+      {
+        "Schema": "tcm:15-454-8",
+        "Template": "tcm:15-455-32"
+      },
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-464-32"
+      },
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-464-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-464-32"
+      },
+      {
+        "Schema": "tcm:15-769-8",
+        "Template": "tcm:15-771-32"
+      }
+    ]
+  },
+  {
+    "Region": "Tools",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-401-8",
+        "Template": "tcm:15-402-32"
+      },
+      {
+        "Schema": "tcm:15-419-8",
+        "Template": "tcm:15-426-32"
+      }
+    ]
+  },
+  {
+    "Region": "3-Column",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-407-32"
+      },
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-407-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-407-32"
+      },
+      {
+        "Schema": "tcm:15-415-8",
+        "Template": "tcm:15-416-32"
+      },
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-438-32"
+      },
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-438-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-438-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-442-32"
+      },
+      {
+        "Schema": "tcm:15-351-8",
+        "Template": "tcm:15-462-32"
+      },
+      {
+        "Schema": "tcm:15-353-8",
+        "Template": "tcm:15-484-32"
+      },
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-484-32"
+      },
+      {
+        "Schema": "tcm:15-454-8",
+        "Template": "tcm:15-484-32"
+      },
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-487-32"
+      },
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-487-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-487-32"
+      },
+      {
+        "Schema": "tcm:15-401-8",
+        "Template": "tcm:15-496-32"
+      }
+    ]
+  },
+  {
+    "Region": "Links",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-353-8",
+        "Template": "tcm:15-433-32"
+      }
+    ]
+  },
+  {
+    "Region": "Info",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-383-8",
+        "Template": "tcm:15-451-32"
+      },
+      {
+        "Schema": "tcm:15-383-8",
+        "Template": "tcm:15-470-32"
+      }
+    ]
+  },
+  {
+    "Region": "Logo",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-460-32"
+      }
+    ]
+  },
+  {
+    "Region": "Hero",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-404-8",
+        "Template": "tcm:15-468-32"
+      },
+      {
+        "Schema": "tcm:15-386-8",
+        "Template": "tcm:15-471-32"
+      }
+    ]
+  },
+  {
+    "Region": "Left",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-419-8",
+        "Template": "tcm:15-474-32"
+      },
+      {
+        "Schema": "tcm:15-768-8",
+        "Template": "tcm:15-770-32"
+      }
+    ]
+  },
+  {
+    "Region": "Example2",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-718-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-718-32"
+      }
+    ]
+  },
+  {
+    "Region": "Example1",
+    "ComponentTypes": [
+      {
+        "Schema": "tcm:15-385-8",
+        "Template": "tcm:15-723-32"
+      },
+      {
+        "Schema": "tcm:15-387-8",
+        "Template": "tcm:15-723-32"
+      }
+    ]
+  }
+]
